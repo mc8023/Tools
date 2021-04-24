@@ -1,4 +1,8 @@
 # -*- coding=utf-8 -*-
+
+# 该脚本用于导出Chrome中存储的密码
+# 运行方式 python ChromePwdDecrypt.py
+
 import os
 import json
 import base64
